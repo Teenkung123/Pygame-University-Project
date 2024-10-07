@@ -1,0 +1,32 @@
+{
+  "rare1": {
+    "image": "/images/rare1.png",
+    "name": "rare1",
+    "description": "a rare character(?), what do you expected?",
+    "power": 100
+  },
+  "epic1": {
+    "image": "/images/epic1.png",
+    "name": "epic1",
+    "description": "a epic character(?), what do you expected?",
+    "power": 1000
+  },
+  "epic1_up": {
+    "image": "/images/epic1_up.png",
+    "name": "epic1",
+    "description": "a epic character(?), what do you expected?",
+    "power": 1500
+  },
+  "legendary1": {
+    "image": "/images/legendary1.png",
+    "name": "legendary1",
+    "description": "a legendary character(?), what do you expected?",
+    "power": 5000
+  },
+  "legendary1_up": {
+    "image": "/images/legendary1_up.png",
+    "name": "epic1",
+    "description": "a legendary character(?), what do you expected?",
+    "power": 7500
+  }
+}

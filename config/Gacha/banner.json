@@ -1,0 +1,35 @@
+{
+  "default": {
+    "type": "standard",
+    "img": "",
+    "name": "A DEFAULT BANNER",
+    "description": "A standard banner",
+    "cost": {
+      "1": {
+        "currency": "Gold",
+        "amount": 100
+      },
+      "10": {
+        "currency": "Gold",
+        "amount": 900
+      }
+    },
+    "pools":{
+      "legendary": {
+        "chance": 0.1,
+        "pity": 150,
+        "fifty": true,
+        "up": "rate_up_1.json",
+        "default": "default.json"
+      },
+      "epic": {
+        "chance": 10,
+        "pity": 10,
+        "fifty": false,
+        "up": "rate_up_1.json",
+        "default": "default.json"
+      },
+      "rare": "rare.json"
+    }
+  }
+}
